@@ -1,5 +1,4 @@
 # Filmcraft-Collaborative
-An unofficial fork of FilmCraft adding real-time collaborative editing. Work on the same edit simultaneously with others without passing files back and forth.
 
 **FilmCraft Collaborative** is an unofficial fork of [FilmCraft](https://github.com/storytold/filmcraft) (originally developed by ArtCraft) that adds **real-time collaborative editing**, allowing multiple users to work on the same edit simultaneously without manually exporting and sharing project files.
 
