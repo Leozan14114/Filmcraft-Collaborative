@@ -9,3 +9,4 @@ plan/
 __pycache__/
 *.log
 *.log
+*.log
